@@ -13,7 +13,7 @@
 ## 🔗 Conecte-se comigo
 
 <p align="left">
-  <a href="SEU_LINKEDIN">
+  <a href="www.linkedin.com/in/vinícius-araújo-920542252/">
     <img src="https://img.shields.io/badge/LINKEDIN-black?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="SEU_INSTAGRAM">
