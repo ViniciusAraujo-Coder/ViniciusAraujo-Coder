@@ -16,21 +16,35 @@
 
 ## 🪐 Sobre mim
 
-### Opa! Eu sou o Vinícius 👋
+<table>
+<tr>
+<td width="50%" valign="top">
 
-🎓 Estudante de **Engenharia de Software**, explorando o universo da tecnologia e construindo meu caminho como desenvolvedor.
+**Opa! Eu sou o Vinícius** 👋
 
-💻 Gosto de entender como as coisas funcionam, experimentar ideias e transformar problemas em soluções. Tenho interesse por **desenvolvimento web**, **automação** e **inteligência artificial**, e estou sempre procurando algo novo para aprender e colocar em prática.
+💻 Curto entender como as coisas funcionam e transformar problemas em soluções
 
-🚀 Acredito muito em **aprender fazendo**. Por aqui, compartilho projetos, experimentos, aprendizados e um pouco da minha evolução nessa jornada.
+🚀 Aprendo fazendo: web, automação e IA
 
-🎧 Fora da programação, você provavelmente vai me encontrar ouvindo **Marília Mendonça, Rita Lee, Cazuza ou Karol G**. Meu gosto musical não segue exatamente uma lógica, e acho ótimo assim.
+✨ Movido pela curiosidade e pelo que vem depois
 
-📺 Também sou fã de realities (especialmente **RuPaul's Drag Race**), filmes, séries e boas histórias.
+</td>
+<td width="50%" valign="top">
 
-✨ Sou movido pela curiosidade, pela vontade de crescer e por aquela inquietação de sempre querer descobrir o que vem depois.
+```java
+class Vinicius {
+  String[] playlist = {
+    "Marília Mendonça", "Rita Lee",
+    "Cazuza", "Karol G"
+  };
+  String hobby = "filmes, séries e realities";
+  int commitsPelaFrente = Integer.MAX_VALUE;
+}
+```
 
-> 🌱 Ainda tenho muito a aprender, muita coisa para construir e vários commits pela frente!
+</td>
+</tr>
+</table>
 
 <div align="center">
 
