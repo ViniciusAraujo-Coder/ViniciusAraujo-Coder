@@ -11,7 +11,7 @@
 <br>
 
 <div align="center">
-  <img width="90%" src="tardis" alt="Ampulheta no espaço" />
+  <img width="90%" src="./tardis" alt="Ampulheta no espaço" />
 </div>
 
 <br>
