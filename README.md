@@ -1,48 +1,94 @@
-# Olá, eu sou Vinícius Araújo! 👋
+<!-- ✏️ Antes de publicar: troque SEU-USUARIO pelo seu usuário do GitHub e SEU-LINKEDIN pelo seu perfil -->
 
-💻 Estudante de Engenharia de Software (USJT)
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&color=0:030814,50:0d2a5c,100:4FA3FF&text=Vin%C3%ADcius%20Ara%C3%BAjo&fontColor=FFFFFF&fontSize=50&fontAlignY=38&desc=Engenharia%20de%20Software%20%E2%80%A2%20USJT&descAlignY=58&descSize=18&animation=fadeIn" />
 
-🚀 Desenvolvedor em formação, focado em desenvolvimento de software
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=4FA3FF&center=true&vCenter=true&width=520&lines=Ol%C3%A1%2C+eu+sou+o+Vin%C3%ADcius!+%F0%9F%91%8B;Desenvolvedor+em+forma%C3%A7%C3%A3o+%F0%9F%9A%80;Escrevendo+a+pr%C3%B3xima+vers%C3%A3o+de+mim+%E2%8F%B3" alt="Typing SVG" />
+  </a>
+</div>
 
-🌱 Estudando C#, Python, HTML, CSS, JavaScript e Banco de Dados
+<br>
 
-> "Somos pessoas diferentes ao longo de toda a nossa vida. E tudo bem. Desde que você se lembre de todas as pessoas que já foi." — O Décimo Primeiro Doutor ⏳💙
+<div align="center">
+  <img width="90%" src="./tempo-espaco.svg" alt="Ampulheta no espaço" />
+</div>
 
----
+<br>
+
+## 🪐 Sobre mim
+
+<table>
+<tr>
+<td width="55%" valign="top">
+
+- 💻 Estudante de **Engenharia de Software** na **USJT**
+- 🚀 Desenvolvedor em formação, focado em desenvolvimento de software
+- 🌱 Estudando **C#, Python, HTML, CSS, JavaScript** e **Banco de Dados**
+- 📫 Me chama em **viniciusaraujo.dev0@gmail.com**
+
+</td>
+<td width="45%" valign="top">
+
+```csharp
+var vinicius = new Dev
+{
+    Curso   = "Eng. de Software",
+    Foco    = "Back-end & dados",
+    Combustivel = "café ☕",
+    Modo    = "sempre aprendendo"
+};
+```
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+> ### *"Somos pessoas diferentes ao longo de toda a nossa vida. E tudo bem.*
+> ### *Desde que você se lembre de todas as pessoas que já foi."*
+> — O Décimo Primeiro Doutor ⏳💙
+
+</div>
 
 ## 🔗 Conecte-se comigo
 
-<p align="left">
-  <a href="www.linkedin.com/in/vinícius-araújo-920542252/">
-    <img src="https://img.shields.io/badge/LINKEDIN-black?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="SEU_INSTAGRAM">
-    <img src="https://img.shields.io/badge/INSTAGRAM-black?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="mailto:vinicio.araujo125@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-black?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+<div align="center">
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d2a5c?style=for-the-badge&logo=linkedin&logoColor=4FA3FF)](https://www.linkedin.com/in/SEU-LINKEDIN/)
+[![Gmail](https://img.shields.io/badge/Gmail-0d2a5c?style=for-the-badge&logo=gmail&logoColor=4FA3FF)](mailto:viniciusaraujo.dev0@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-0d2a5c?style=for-the-badge&logo=github&logoColor=4FA3FF)](https://github.com/SEU-USUARIO)
+
+</div>
 
 ## 🖥️ Tecnologias que estou estudando
 
-<p align="left">
-  <img src="https://img.shields.io/badge/PYTHON-black?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C%23-black?style=for-the-badge&logo=csharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JAVASCRIPT-black?style=for-the-badge&logo=javascript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GIT-black?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GITHUB-black?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MYSQL-black?style=for-the-badge&logo=mysql&logoColor=white"/>
-</p>
+<div align="center">
 
----
+| 🧠 Linguagens | 🌐 Web | 🗄️ Dados & Ferramentas |
+| :---: | :---: | :---: |
+| <img src="https://skillicons.dev/icons?i=cs,python&theme=dark" /> | <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" /> | <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode&theme=dark" /> |
 
-## 🐍 Contribuições
+</div>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ViniciusAraujo-Coder/ViniciusAraujo-Coder/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
+## 📊 Estatísticas
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&hide_border=true&bg_color=030814&title_color=4FA3FF&icon_color=4FA3FF&text_color=cfe6ff&locale=pt-br" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&hide_border=true&bg_color=030814&title_color=4FA3FF&text_color=cfe6ff&locale=pt-br" />
+  <br>
+  <img width="85%" src="https://streak-stats.demolab.com?user=SEU-USUARIO&hide_border=true&background=030814&ring=4FA3FF&fire=FFD36E&currStreakLabel=4FA3FF&sideLabels=cfe6ff&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=7fb8ff&locale=pt_BR" />
+</div>
+
+## 👻 Minhas Contribuições
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SEU-USUARIO/SEU-USUARIO/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SEU-USUARIO/SEU-USUARIO/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/SEU-USUARIO/SEU-USUARIO/output/pacman-contribution-graph.svg">
+</picture>
+
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:4FA3FF,50:0d2a5c,100:030814" />
+</div>
