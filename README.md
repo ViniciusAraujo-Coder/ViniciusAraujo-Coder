@@ -2,7 +2,7 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&color=0:030814,50:0d2a5c,100:4FA3FF&text=Vin%C3%ADcius%20Ara%C3%BAjo&fontColor=FFFFFF&fontSize=50&fontAlignY=38&desc=Estudante%20de%20Engenharia%20de%20Software&descAlignY=58&descSize=18&animation=fadeIn" />
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=4FA3FF&center=true&vCenter=true&width=520&lines=Desenvolvedor+em+forma%C3%A7%C3%A3o+%F0%9F%9A%80;Aprendendo+fazendo%2C+um+commit+por+vez;Sempre+querendo+saber+o+que+vem+depois+%E2%9C%A8" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=4FA3FF&center=true&vCenter=true&width=520&lines=Desenvolvedor+em+forma%C3%A7%C3%A3o+%F0%9F%9A%80;Aprendendo+fazendo%2C+um+commit+por+vez;%E2%9C%A8" alt="Typing SVG" />
   </a>
 </div>
 
